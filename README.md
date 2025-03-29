@@ -2,7 +2,7 @@
 
 Welcome to the official development repository for the unofficial LineageOS 22 (Android 15) port for the Samsung Galaxy Tab S2 LTE – model SM-T819 (gts210veilte).
 
-> **Status:** Work In Progress (Initial sync + configuration)
+> **Status:** Work In Progress (Initial build + minimal patches)
 
 ---
 
