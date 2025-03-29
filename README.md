@@ -16,9 +16,9 @@ We're not starting from scratch—we're adapting, modifying, and optimizing.
 ## Progress Log
 - [x] Repo initialized
 - [x] Source sync in progress
-- [ ] Device tree setup
-- [ ] Kernel configuration
-- [ ] Initial build
+- [x] Device tree setup
+- [x] Kernel configuration
+- [x] Initial build
 - [ ] Bootable image
 - [ ] Bug fixing & optimization
 - [ ] Release for testing
